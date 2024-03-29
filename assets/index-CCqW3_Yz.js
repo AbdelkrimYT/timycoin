@@ -8109,9 +8109,9 @@ const Np = "assets/whoIseggshellImg-DagzZqeq.png";
 function Pp() {
   const e = "Who is $TIMY",
       t = "Introducing $Timy , the meme coin inspired from The series of the adventures of Timmy Turner, a 10-year-old boy with two fairy godparents named Cosmo and Wanda who grant him wishes to solve his everyday problems. $TIMY is a fanny token, on",
-      n = "The Meme Of All Time, no other meme coin can compete with him.\n",
-      r = "His ambitions are strong and unstoppable.\n",
-      l = "Hype isn’t enough, he wants to be the best meme coin ever.\n";
+      n = "The Meme Of All Time, no other meme coin can compete with him.\n\n",
+      r = "His ambitions are strong and unstoppable.\n\n",
+      l = "Hype isn’t enough, he wants to be the best meme coin ever.\n\n";
 
   return g.jsxs(g.Fragment, {
       children: [g.jsx("section", {
@@ -8126,7 +8126,7 @@ function Pp() {
                               children: [g.jsx("h3", {
                                   children: e
                               }), g.jsxs("p", {
-                                  children: [t, " ", "Solana\n"]
+                                  children: [t, " ", "Solana\n\n"]
                               }), g.jsx("p", {
                                   children: n
                               }), g.jsx("p", {
