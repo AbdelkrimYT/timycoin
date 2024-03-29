@@ -8248,7 +8248,7 @@ const Lp = "assets/footerLogo-BBNh9PRy.png",
 function Rp() {
   const e = "$TIMY",
       t = "Buy $TIMY",
-      n = "/",
+      n = "#",
       r = [{
         logo: g.jsx(Tpp, {}),
         url: "https://t.me/+02nPgi0hNGo4MzNk"
