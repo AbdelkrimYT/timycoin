@@ -7985,7 +7985,7 @@ Cp.src = Tl;
 
 function Ep() {
   const e = "$TIMY",
-      t = "PRESALE ADDRESS:",
+      t = "CONTRACT ADDRESS:",
       n = [{
           title: "START",
           value: "25",
