@@ -8126,7 +8126,7 @@ function Pp() {
                               children: [g.jsx("h3", {
                                   children: e
                               }), g.jsxs("p", {
-                                  children: [t, " ", "Solana\n\n"]
+                                  children: [t, " ", "Solana.\n\n"]
                               }), g.jsx("p", {
                                   children: n
                               }), g.jsx("p", {
