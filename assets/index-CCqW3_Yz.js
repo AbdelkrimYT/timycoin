@@ -8108,10 +8108,10 @@ const Np = "assets/whoIseggshellImg-DagzZqeq.png";
 
 function Pp() {
   const e = "Who is $TIMY",
-      t = "Introducing $Timy , the meme coin inspired from The series of the adventures of Timmy Turner, a 10-year-old boy with two fairy godparents named Cosmo and Wanda who grant him wishes to solve his everyday problems. $TIMY is a fanny token, on Solana",
-      n = "The Meme Of All Time, no other meme coin can compete with him.",
-      r = "His ambitions are strong and unstoppable.",
-      l = "Hype isn’t enough, he wants to be the best meme coin ever.";
+      t = "Introducing $Timy , the meme coin inspired from The series of the adventures of Timmy Turner, a 10-year-old boy with two fairy godparents named Cosmo and Wanda who grant him wishes to solve his everyday problems. $TIMY is a fanny token, on",
+      n = "The Meme Of All Time, no other meme coin can compete with him.<br/>",
+      r = "His ambitions are strong and unstoppable.<br/>",
+      l = "Hype isn’t enough, he wants to be the best meme coin ever.<br/>";
 
   return g.jsxs(g.Fragment, {
       children: [g.jsx("section", {
@@ -8126,7 +8126,7 @@ function Pp() {
                               children: [g.jsx("h3", {
                                   children: e
                               }), g.jsxs("p", {
-                                  children: [t, " ", "Solana"]
+                                  children: [t, " ", "Solana <br/>"]
                               }), g.jsx("p", {
                                   children: n
                               }), g.jsx("p", {
@@ -8247,7 +8247,7 @@ const Lp = "assets/footerLogo-BBNh9PRy.png",
 
 function Rp() {
   const e = "$TIMY",
-      t = "COMING SOON",
+      t = "Buy $TIMY",
       n = "/",
       r = [{
         logo: g.jsx(Tpp, {}),
@@ -8274,7 +8274,7 @@ function Rp() {
                               alt: ""
                           })
                       }), g.jsx("h5", {
-                          children: "PRESALE ADDRESS:"
+                          children: "CONTRACT ADDRESS:"
                       }), g.jsx(Tc, {}), g.jsx("h4", {
                           className: "footer-title",
                           children: e
