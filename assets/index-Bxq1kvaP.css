@@ -11952,3 +11952,7 @@ input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{
     background-color:#fff
 }
  
+
+p {
+    padding-bottom: 20px;
+}
