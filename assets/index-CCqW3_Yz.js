@@ -7277,7 +7277,7 @@ Pc.displayName = "Row";
 const Vt = Pc,
   Tl = "assets/heroImg1-C-Zx28-I.png",
   up = "assets/heroImg2-C8CFHpH2.png",
-  p = "assets/_moat-Ezh0jEjA.png";
+  p = "assets/moat-Ezh0jEjA.png";
 var _c = {};
 
 function sp(e) {
